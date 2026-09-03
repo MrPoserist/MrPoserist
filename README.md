@@ -1,11 +1,11 @@
 # welcome.
 
-**Programming languages**:
+**Knowledge**:
 - JavaScript (ES5), Python, GDScript.
 - 2D/3D.
 - Music/Sound design.
 
-**Speaking languages**:
+**Languages**:
 - Russian (Native).
 - English.
 - Ukrainian.
